@@ -10,7 +10,7 @@ import java.awt.Point;
 /**
  *  Kelas Level yang merupakan kelas Parent
  * 
- * @author Albert Kamord,Rommy Kurniawan Wijaya
+ * @author Albert Kamord,Rommy Kurniawan Wijaya1
  */
 public class Level {
     /**
